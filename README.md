@@ -1,6 +1,8 @@
 # Women-Safety-system
 Women Safety System is a STEM-based application designed to ensure women’s safety during emergencies. It provides instant SOS alerts, live location sharing, and real-time communication with trusted contacts. The system focuses on quick response, reliability, and ease of use for real-world safety scenarios.
+
 👩‍🦰 Women Safety System 🚨
+
 📌 About the Project
 
 The Women Safety System is a technology-driven solution designed to enhance the safety and security of women using modern STEM technologies. This system helps women quickly alert trusted contacts and authorities during emergency situations, ensuring timely help and support.
